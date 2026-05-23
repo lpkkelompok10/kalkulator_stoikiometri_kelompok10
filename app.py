@@ -1,6 +1,5 @@
 import streamlit as st
 import requests
-from chempy import balance_stoichiometry
 from streamlit_lottie import st_lottie
 
 # ====================================

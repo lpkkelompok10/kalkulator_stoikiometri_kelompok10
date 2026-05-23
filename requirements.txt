@@ -1,4 +1,4 @@
 streamlit
-chempy==0.8.3
-streamlit-lottie
+chempy==0.8.4
 requests
+streamlit-lottie

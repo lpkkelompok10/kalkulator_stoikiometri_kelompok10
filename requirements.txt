@@ -1,5 +1,5 @@
 streamlit
 chempy==0.8.0
-request
+requests
 streamlit-lottie
 numpy
